@@ -1,0 +1,10 @@
+[29-Apr-2022 16:10:57 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/adaviico/public_html/ay.adavii.com/wp-exam/wp-content/themes/wp-exam/functions.php on line 10
+[29-Apr-2022 16:11:12 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/adaviico/public_html/ay.adavii.com/wp-exam/wp-content/themes/wp-exam/functions.php on line 10
+[30-Apr-2022 07:56:03 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function wp_widget_description(), 0 passed in /home/adaviico/public_html/ay.adavii.com/wp-exam/wp-content/themes/wp-exam/header.php on line 85 and exactly 1 expected in /home/adaviico/public_html/ay.adavii.com/wp-exam/wp-includes/widgets.php:441
+Stack trace:
+#0 /home/adaviico/public_html/ay.adavii.com/wp-exam/wp-content/themes/wp-exam/header.php(85): wp_widget_description()
+#1 /home/adaviico/public_html/ay.adavii.com/wp-exam/wp-includes/template.php(770): require_once('/home/adaviico/...')
+#2 /home/adaviico/public_html/ay.adavii.com/wp-exam/wp-includes/template.php(716): load_template('/home/adaviico/...', true, Array)
+#3 /home/adaviico/public_html/ay.adavii.com/wp-exam/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#4 /home/adaviico/public_html/ay.adavii.com/wp-exam/wp-content/themes/wp-exam/page.php(1): get_header()
+#5 /home/adaviico/public_html/ay.adavii.com/wp-exam/wp-includes/template-loader.php(106): include('/home/adavii in /home/adaviico/public_html/ay.adavii.com/wp-exam/wp-includes/widgets.php on line 441

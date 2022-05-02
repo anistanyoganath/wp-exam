@@ -1,0 +1,20 @@
+[30-Apr-2022 04:43:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/adaviico/public_html/ay.adavii.com/wp-exam/wp-content/themes/wp-exam/functions.php on line 29
+[30-Apr-2022 04:44:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/adaviico/public_html/ay.adavii.com/wp-exam/wp-content/themes/wp-exam/functions.php on line 29
+[30-Apr-2022 04:44:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function reg_nav_menus() in /home/adaviico/public_html/ay.adavii.com/wp-exam/wp-content/themes/wp-exam/functions.php:24
+Stack trace:
+#0 /home/adaviico/public_html/ay.adavii.com/wp-exam/wp-settings.php(555): include()
+#1 /home/adaviico/public_html/ay.adavii.com/wp-exam/wp-config.php(76): require_once('/home/adaviico/...')
+#2 /home/adaviico/public_html/ay.adavii.com/wp-exam/wp-load.php(50): require_once('/home/adaviico/...')
+#3 /home/adaviico/public_html/ay.adavii.com/wp-exam/wp-admin/admin.php(34): require_once('/home/adaviico/...')
+#4 /home/adaviico/public_html/ay.adavii.com/wp-exam/wp-admin/nav-menus.php(13): require_once('/home/adaviico/...')
+#5 {main}
+  thrown in /home/adaviico/public_html/ay.adavii.com/wp-exam/wp-content/themes/wp-exam/functions.php on line 24
+[30-Apr-2022 04:44:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function reg_nav_menus() in /home/adaviico/public_html/ay.adavii.com/wp-exam/wp-content/themes/wp-exam/functions.php:24
+Stack trace:
+#0 /home/adaviico/public_html/ay.adavii.com/wp-exam/wp-settings.php(555): include()
+#1 /home/adaviico/public_html/ay.adavii.com/wp-exam/wp-config.php(76): require_once('/home/adaviico/...')
+#2 /home/adaviico/public_html/ay.adavii.com/wp-exam/wp-load.php(50): require_once('/home/adaviico/...')
+#3 /home/adaviico/public_html/ay.adavii.com/wp-exam/wp-admin/admin.php(34): require_once('/home/adaviico/...')
+#4 /home/adaviico/public_html/ay.adavii.com/wp-exam/wp-admin/nav-menus.php(13): require_once('/home/adaviico/...')
+#5 {main}
+  thrown in /home/adaviico/public_html/ay.adavii.com/wp-exam/wp-content/themes/wp-exam/functions.php on line 24
